@@ -74,7 +74,7 @@ Acesse a rota raiz `GET /` no navegador. A cada acesso, o contador é incrementa
 Resposta esperada:
 
 ```html
-<h1>Olá, Docker!</h1><p>Esta página foi visitada <strong>1</strong> vezes.</p>
+<h1>Olá, Humano!</h1><p>Esta página foi visitada <strong>1</strong> vezes.</p>
 ```
 
 ## Variáveis de ambiente
